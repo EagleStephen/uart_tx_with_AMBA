@@ -2,7 +2,7 @@
 -- Use of this source code through a simulator and/or a compiler tool
 -------------------------------------------------------------------------------
 -- File : uart_tx_tb.vhd
--- Author : Stephen Neopane 
+-- Author :
 -- Created : 03 May 2023
 -- Last update : 09 May 2023
 -- Simulators : ModelSim SE 10.5c
@@ -14,7 +14,7 @@
 ----------------------------------------------------------------------
 -- Version : 1
 -- Date : 2023 3rd May 
--- Modifier : Stephen Neopane	
+-- Modifier : 
 -- Modif. : 
 -- Second Line of my modifications : 
 ---------------------------------------------------------------------
